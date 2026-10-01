@@ -53,4 +53,4 @@ The SSD1306 OLED display is used to show the live LDR sensor reading in real tim
 
 ## Simulation
 
-https://wokwi.com/projects/476655570621966337
+https://wokwi.com/projects/476657998935149569
